@@ -1,0 +1,9 @@
+
+.git
+.gitignore
+target/
+nbproject/private/
+nbbuild/
+nbdist/
+*.log
+.env
